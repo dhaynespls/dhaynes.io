@@ -1,16 +1,28 @@
 import React from "react"
-import { Link } from "gatsby"
-
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+export default ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <div>
+      <Img fluid={data.file.childImageSharp.fluid} />
+      <h1>David Haynes</h1>
+    </div>
   </Layout>
 )
 
-export default IndexPage
+export const query = graphql`
+  query {
+    file(name: { eq: "me" }) {
+      childImageSharp {
+        fluid(maxWidth: 700) {
+          # Choose either the fragment including a small base64ed image, a traced placeholder SVG, or one without.
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+`

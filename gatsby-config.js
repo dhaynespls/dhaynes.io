@@ -1,10 +1,13 @@
+const path = require(`path`)
+
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: ``,
+    description: ``,
+    author: ``,
   },
   plugins: [
+    // Content
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-remark`,
     {
@@ -14,8 +17,19 @@ module.exports = {
         path: `${__dirname}/src/posts`,
       },
     },
+
+    // Images
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: path.join(__dirname, `src`, `images`),
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+
+    // manifest.json
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -27,6 +41,7 @@ module.exports = {
         display: `minimal-ui`,
       },
     },
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
