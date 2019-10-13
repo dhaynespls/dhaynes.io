@@ -1,0 +1,39 @@
+.socials {
+  line-height: 0.5rem;
+  padding-top: 1rem;
+}
+
+.socials a {
+  color: inherit;
+  outline: none;
+  text-decoration: none;
+}
+
+.socials a:hover {
+  text-decoration: underline;
+}
+
+.me {
+  border-radius: 3%;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+@media screen and (max-width: 500px) {
+  .socials {
+    line-height: 0.75rem;
+  }
+
+  .me {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+    align-self: center;
+  }
+}
