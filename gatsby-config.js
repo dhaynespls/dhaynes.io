@@ -2,9 +2,9 @@ const path = require(`path`)
 
 module.exports = {
   siteMetadata: {
-    title: ``,
+    title: `dhaynes.io`,
     description: ``,
-    author: ``,
+    author: `@dhaynes`,
   },
   plugins: [
     // Content

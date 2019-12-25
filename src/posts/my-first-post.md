@@ -4,16 +4,36 @@ date: 2019-07-10
 path: /my-first-post
 ---
 
-Lorem ipsum dolor amet direct trade celiac lyft, wolf DIY meggings gastropub leggings occupy chia. Pickled chia slow-carb jean shorts venmo, cold-pressed succulents selvage edison bulb locavore offal taxidermy wayfarers iceland. Thundercats lyft PBR&B, typewriter four loko squid craft beer blue bottle palo santo truffaut. Gochujang lomo gluten-free la croix everyday carry. Health goth cold-pressed ramps prism, cliche subway tile intelligentsia green juice heirloom. Dreamcatcher etsy tbh neutra chicharrones ramps bicycle rights semiotics cliche 90's schlitz intelligentsia copper mug next level. Vinyl pug knausgaard selfies leggings.
+# One year of Survivor
 
-Cornhole gastropub before they sold out cardigan PBR&B fixie 8-bit kinfolk locavore master cleanse activated charcoal pinterest tumblr kale chips blog. Umami distillery flexitarian, woke yr cornhole swag street art keytar scenester bitters master cleanse next level. Church-key biodiesel pinterest readymade vegan leggings salvia kale chips mlkshk migas hella green juice. Woke single-origin coffee meggings organic chillwave messenger bag tumeric kitsch bespoke. Kickstarter etsy hammock raclette godard sartorial.
+---
 
-Tilde meggings street art brooklyn williamsburg. Unicorn lumbersexual chia, prism street art authentic cornhole gluten-free slow-carb chicharrones enamel pin keffiyeh. Drinking vinegar keffiyeh chartreuse 8-bit, godard XOXO pug selfies messenger bag authentic jianbing street art. XOXO marfa pabst man braid pickled, bitters locavore. Hell of tacos intelligentsia, vaporware fam VHS cloud bread viral +1 knausgaard mixtape swag cred crucifix shoreditch. Cred food truck salvia vaporware try-hard, succulents selfies tattooed shaman. Food truck hella taiyaki tousled lo-fi gluten-free fam next level aesthetic pickled waistcoat street art kogi sriracha cardigan.
+It’s been about a year since I started watching the CBS reality show Survivor. These are my takes on the show and why I think that you should check it out.
 
-Hashtag normcore marfa celiac pok pok skateboard kombucha succulents scenester adaptogen hella meh. Helvetica affogato yr blog typewriter cold-pressed ugh irony ennui blue bottle celiac vape sriracha. Polaroid +1 green juice shaman bushwick gentrify tousled craft beer brunch hella actually. Williamsburg cliche DIY celiac, neutra humblebrag pork belly glossier photo booth poutine pickled street art fingerstache wolf quinoa. Kogi pinterest cold-pressed tattooed dreamcatcher kinfolk cliche yuccie snackwave actually deep v tofu shabby chic echo park lomo.
+(Note: I use the term show but it can be replaced with any form of media)
 
-Readymade snackwave kale chips neutra artisan small batch bespoke fixie master cleanse truffaut succulents waistcoat. Church-key glossier squid chartreuse try-hard fingerstache iPhone, lumbersexual tilde cornhole single-origin coffee prism. Cliche intelligentsia thundercats helvetica. Organic aesthetic edison bulb twee, air plant shabby chic meggings YOLO mumblecore disrupt brooklyn photo booth. Raw denim man bun selfies glossier.
+---
 
-Oh. You need a little dummy text for your mockup? How quaint.
+# 1. The necessity of the escape
 
-I bet you’re still using Bootstrap too…
+I think it’s interesting how pieces of media catch us in our lives, and the lasting effect they have on us.
+
+I started watching Survivor because of my roommate. More or less, at least. I mean don’t get me wrong, I wouldn’t have picked it up were it not for him. Following reality television is not necessarily something I can claim to have any skill at nor have any particular desire to invest time into. Rather, I was looking for a distraction. An escape. Life is crazy, and sometimes can feel insurmountable. The power of media such as television shows is that they allow for a medium term investment of time in exchange for a complete context switch from whatever is going on in life. Streaming services lower this barrier to entry significantly, and it’s pretty common for people to “adopt” shows into periods of their life, in what I’ll refer to as show phases. These show phases allow for a 1:1 relationship of one’s state in life and the associted show that was binged to escape from that. Plus, generally good shows are consistent, something that life rarely is.
+
+When I was presented with the suggestion of watching a bunch of almost naked people talk to each other on an island I was initially skeptical. Reality TV has a unique reputation of being rather trashy, derivitive, rigged by production, and just downright boring.
+
+How did the show become a huge phase for me? What does Survivor do differently than other aformentioned reality TV shows? And why is everyone half naked? I hope to address these points and to provide a sort of jumping off point for the show if you’re looking for an escape. The show has meant a lot to me in the past year and I believe it’s one of the most wild and fun rabbit holes you can go down.
+
+Myself and Survivor contestent Ty (June 2019)
+
+# 2. The elevator pitch
+
+Survivor is a _social strategy game_ where your goal is to convince your competitors to like you while you simutaniously work to eliminate them from the game.
+
+I think one of the major misconceptions that people have (and why the show is written off) is the perception that it is a survival show. In the modern era of Survivor there is very little actual “surviving” that actually happens on the show. Production realized that the show was far more interesting when time was exclusively spent on the social strategy, in fact castaways are given clean water and consistent supply of rice.
+
+This show is not rigged. Just watch a season and see how things end up. Each season’s structure is unique in that there are multiple character arcs going on at any one time
+
+One of the coolest things that come about from a show being on for so long is that there’s this sort of evolution in terms of how people play the game learning from the mistakes of past castaways. Pretty much at this point the only people that go on the show are super fans who’ve seen every season and know the gameplays of all the best players by heart.
+
+# 3. Getting started

@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "dhaynes.io",
+  "private": false,
+  "description": "",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "David Haynes <dhaynes207@gmail.com>",
   "dependencies": {
     "gatsby": "^2.15.36",
     "gatsby-image": "^2.2.27",
@@ -27,8 +27,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby clean; gatsby build",
-    "deploy": "wrangler build;wrangler publish",
+    "build": "gatsby clean; gatsby build; wrangler build",
+    "deploy": "yarn run build; wrangler publish",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
@@ -37,9 +37,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "git@github.com:dhaynespls/dhaynes.io.git"
   }
 }

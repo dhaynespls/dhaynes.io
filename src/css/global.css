@@ -1,3 +1,8 @@
+/*
+  Global consistency overrides.
+
+  Do not load up this file. Be sure to use the layouts // css modules pattern.
+*/
 html {
   background-color: #fafafa;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
