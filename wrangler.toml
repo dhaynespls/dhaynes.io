@@ -1,0 +1,10 @@
+account_id = "f2f700164242a74996f3bc3204f8c616"
+name = "dhaynesdotio"
+type = "webpack"
+route = "*dhaynes.io/*"
+workers_dev = false
+zone_id = "66d56b7c23bcb12953cc6d3731c128a6"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
