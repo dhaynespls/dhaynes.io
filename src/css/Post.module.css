@@ -1,0 +1,9 @@
+.home {
+  color: inherit;
+  outline: none;
+  text-decoration: none;
+}
+
+.home:hover {
+  text-decoration: underline;
+}
