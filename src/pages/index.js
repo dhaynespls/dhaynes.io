@@ -67,7 +67,7 @@ export default () => {
         </div>
       </div>
 
-      <h2>
+      <h2 className={indexStyles.blag}>
         <span role="img" aria-label="pen" style={{ paddingRight: ".3em" }}>
           🖋️
         </span>

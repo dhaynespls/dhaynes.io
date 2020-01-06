@@ -30,6 +30,10 @@
 }
 
 @media screen and (max-width: 500px) {
+  .blag {
+    text-align: center;
+  }
+
   .socials {
     line-height: 0.75rem;
   }
