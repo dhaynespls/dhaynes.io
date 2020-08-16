@@ -1,6 +1,6 @@
 # dhaynes.io
 
-🚀
+Static site generated with Gatsby! 🚀
 
 ## Developing
 

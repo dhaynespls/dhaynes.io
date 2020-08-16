@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, Link } from "gatsby"
 import PrimaryLayout from "../components/PrimaryLayout"
-import SEO from "../components/SEO"
+import SEO from "../components/seo"
 import postStyles from "../css/Post.module.css"
 
 export default function Template({ data }) {

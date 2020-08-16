@@ -2,8 +2,8 @@ import React from "react"
 import { useStaticQuery, graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import PrimaryLayout from "../components/PrimaryLayout"
-import SEO from "../components/SEO"
-import indexStyles from "../css/Index.module.css"
+import SEO from "../components/seo"
+import indexStyles from "../css/index.module.css"
 
 export default () => {
   const { file, allMarkdownRemark } = useStaticQuery(graphql`
