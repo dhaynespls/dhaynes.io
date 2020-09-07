@@ -3,7 +3,7 @@ import { useStaticQuery, graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import PrimaryLayout from "../components/PrimaryLayout"
 import SEO from "../components/seo"
-import indexStyles from "../css/index.module.css"
+import indexStyles from "../css/Index.module.css"
 
 export default () => {
   const { file, allMarkdownRemark } = useStaticQuery(graphql`
@@ -56,12 +56,11 @@ export default () => {
             gridRow: 1,
           }}
         >
-          <h1>David Haynes</h1>
+          <h1>David Haynes 🌸</h1>
+          <h3>📬 dhaynes at hey.com</h3>
           <div className={indexStyles.socials}>
             {Object.keys(socialLinks).map(key => (
-              <a key={key} href={socialLinks[key]}>
-                <h3>{key}</h3>
-              </a>
+              <h3><a key={key} href={socialLinks[key]}>{key}</a></h3>
             ))}
           </div>
         </div>
